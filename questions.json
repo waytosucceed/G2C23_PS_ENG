@@ -1,0 +1,332 @@
+{
+  "heading": "Pronouns (personal and possessive)",
+  "topics": [
+    {
+      "heading": "Pronouns (personal and possessive)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "___ love to play in the park.",
+          "options": [
+            {
+              "text": "We"
+            },
+            {
+              "text": "Us"
+            },
+            {
+              "text": "Our"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"We\" is used when a group, including the speaker, does something."
+        },
+        {
+          "questionNo": 2,
+          "question": "The red crayon is ___.",
+          "options": [
+            {
+              "text": "my"
+            },
+            {
+              "text": "mine"
+            },
+            {
+              "text": "me"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Mine\" shows that the crayon belongs to the speaker."
+        },
+        {
+          "questionNo": 3,
+          "question": "___ is a good dog.",
+          "options": [
+            {
+              "text": "It"
+            },
+            {
+              "text": "Its"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"It\" is used to talk about an animal or thing."
+        },
+        {
+          "questionNo": 4,
+          "question": "___ are going to the zoo.",
+          "options": [
+            {
+              "text": "They"
+            },
+            {
+              "text": "Them"
+            },
+            {
+              "text": "Their"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"They\" is used when talking about a group of people doing something."
+        },
+        {
+          "questionNo": 5,
+          "question": "This is ___ favourite toy.",
+          "options": [
+            {
+              "text": "him"
+            },
+            {
+              "text": "his"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"His\" shows that the toy belongs to a boy."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which type of pronoun is \"Him\"?",
+          "options": [
+            {
+              "text": "Personal pronoun"
+            },
+            {
+              "text": "Possessive pronoun"
+            },
+            {
+              "text": "Neither"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Him\" is a personal pronoun used to talk about a boy or man."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank with the correct personal pronoun: \"___ am happy.\"",
+          "options": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "Me"
+            },
+            {
+              "text": "My"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"I\" is the personal pronoun used when talking about yourself."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank with the correct possessive pronoun: \"The red ball is ___.\"",
+          "options": [
+            {
+              "text": "he"
+            },
+            {
+              "text": "him"
+            },
+            {
+              "text": "his"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"His\" shows that the ball belongs to a boy."
+        },
+        {
+          "questionNo": 9,
+          "question": "\"Her\" in \"This is her book\" is which type of pronoun?",
+          "options": [
+            {
+              "text": "Personal pronoun"
+            },
+            {
+              "text": "Possessive pronoun"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In this sentence, \"her\" shows the book belongs to a girl or woman."
+        },
+        {
+          "questionNo": 10,
+          "question": "\"My\" is which type of pronoun?",
+          "options": [
+            {
+              "text": "Personal pronoun"
+            },
+            {
+              "text": "Possessive pronoun"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"My\" shows that something belongs to the speaker."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank with the correct personal pronoun: \"___ are playing.\"",
+          "options": [
+            {
+              "text": "They"
+            },
+            {
+              "text": "Them"
+            },
+            {
+              "text": "Their"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"They\" is used when talking about a group of people doing something."
+        },
+        {
+          "questionNo": 12,
+          "question": "\"It\" is which type of pronoun?",
+          "options": [
+            {
+              "text": "Personal pronoun"
+            },
+            {
+              "text": "Possessive pronoun"
+            },
+            {
+              "text": "Neither"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"It\" is a personal pronoun used for animals or things."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank with the correct possessive pronoun: \"The cake is ___.\"",
+          "options": [
+            {
+              "text": "ours"
+            },
+            {
+              "text": "we"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Ours\" shows that the cake belongs to a group including the speaker."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which type of pronoun is \"I\"?",
+          "options": [
+            {
+              "text": "Personal pronoun"
+            },
+            {
+              "text": "Possessive pronoun"
+            },
+            {
+              "text": "Neither"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"I\" is a personal pronoun used when talking about yourself."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank with the correct personal pronoun: \"Can ___ come to the party?\"",
+          "options": [
+            {
+              "text": "you"
+            },
+            {
+              "text": "your"
+            },
+            {
+              "text": "yours"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"You\" is used when talking directly to someone."
+        },
+        {
+          "questionNo": 16,
+          "question": "\"Your\" is which type of pronoun?",
+          "options": [
+            {
+              "text": "Personal pronoun"
+            },
+            {
+              "text": "Possessive pronoun"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Your\" shows that something belongs to the person being spoken to."
+        },
+        {
+          "questionNo": 17,
+          "question": "___ is a good swimmer.",
+          "options": [
+            {
+              "text": "His"
+            },
+            {
+              "text": "Him"
+            },
+            {
+              "text": "He"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"He\" is used when talking about a boy doing something."
+        },
+        {
+          "questionNo": 18,
+          "question": "___ are very kind.",
+          "options": [
+            {
+              "text": "You"
+            },
+            {
+              "text": "Your"
+            },
+            {
+              "text": "Yours"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"You\" is used when describing the person you're talking to."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct spelling:",
+          "options": [
+            {
+              "text": "Children"
+            },
+            {
+              "text": "Cildren"
+            },
+            {
+              "text": "Chhildren"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is C-H-I-L-D-R-E-N. It is the plural for “child”, meaning more than one child."
+        },
+        {
+          "questionNo": 20,
+          "question": "___ are going to the movies.",
+          "options": [
+            {
+              "text": "We"
+            },
+            {
+              "text": "Us"
+            },
+            {
+              "text": "Our"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"We\" is used when a group, including the speaker, is doing something."
+        }
+      ]
+    }
+  ]
+}
